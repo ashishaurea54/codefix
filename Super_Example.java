@@ -7,12 +7,12 @@
 		b= input2;
 		c = input3;
 	}
-	 public SuperClass_Super(SuperClass_Super obj){
-		 a = obj.a;
-		 b = obj.b;
-		 c = obj.c;
+// 	 public SuperClass_Super(SuperClass_Super obj){
+// 		 a = obj.a;
+// 		 b = obj.b;
+// 		 c = obj.c;
 		 
-	 }
+// 	 }
 	 public SuperClass_Super(){
 		 a=b=c=1;
 	 }
